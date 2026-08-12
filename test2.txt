@@ -1,0 +1,8 @@
+class Test2 {
+
+p s v m s a{
+
+sop ("Experiment 2");
+sop ("begin");
+}
+}
